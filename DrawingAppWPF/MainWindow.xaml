@@ -41,7 +41,6 @@
         </Canvas>
         <Canvas x:Name="drawPanel" MouseLeftButtonDown="DrawPanel_MouseLeftButtonDown" MouseLeftButtonUp="DrawPanel_MouseLeftButtonUp" MouseMove="DrawPanel_MouseMove">
             <Button Content="Button" Canvas.Left="1143" Canvas.Top="101" Width="75" Click="Button_Click"/>
-            <Label x:Name="testLBL" Content="Label" Canvas.Left="1122" Canvas.Top="164"/>
         </Canvas>
 
 

@@ -167,10 +167,7 @@ namespace DrawingAppWPF
                         break;
                   
                         
-                }
-                //test
-
-                testLBL.Content = "X: " + mousePosition.X.ToString() + " " + "Y: " + mousePosition.Y.ToString();
+                }          
                 
             }
         }
